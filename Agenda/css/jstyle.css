@@ -1,0 +1,12 @@
+.readonly{
+	color: black !important;
+	font-weight: bold !important;
+	background-color: #f3f3f3;
+}
+td{
+	font-size: 14px;
+}
+
+.ui-datepicker{
+	z-index: 1000 !important;
+}
